@@ -1,1 +1,1 @@
-# lara-mail
+# lara-mail-backend
